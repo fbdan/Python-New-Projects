@@ -11,7 +11,7 @@ EU Licence Plates <br />
 ![image](https://github.com/fbdan/Python-New-Projects/assets/17932047/e3e2a266-65c5-4926-b47f-8a23e5bcd5a4)
 
 Password Generator <br />
-  Generate a password using a friendly interface
+Generate a password using a friendly interface
 ![image](https://github.com/fbdan/Python-New-Projects/assets/17932047/e2106c69-fd88-4116-9e13-f943db12d1c1)
 
 
