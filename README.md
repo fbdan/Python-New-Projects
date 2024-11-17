@@ -15,4 +15,9 @@ Generate a password using a friendly interface <br />
 
 ![image](https://github.com/fbdan/Python-New-Projects/assets/17932047/e2106c69-fd88-4116-9e13-f943db12d1c1)
 
+Boabe de Orez <br />
+Show how any number at the power of 2 or 3 <br />
+![Screenshot 2024-11-18 005547](https://github.com/user-attachments/assets/5501eb53-df5c-4488-a406-4a33f325131c)
+
+
 
